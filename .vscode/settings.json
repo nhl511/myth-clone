@@ -1,0 +1,12 @@
+{
+  "tailwindCSS.experimental.classRegex": ["className=\"([^`]*)"],
+  "tailwindCSS.emmetCompletions": true,
+  "tailwindCSS.includeLanguages": {
+    "javascript": "javascript",
+    "html": "HTML"
+  },
+  "tailwindCSS.suggestions": true,
+  "editor.quickSuggestions": {
+    "strings": "on"
+  }
+}
